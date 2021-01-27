@@ -2,7 +2,7 @@
 ## By c0d3d_v3n0m (Ali Salman)
 
 The examples below illustrate exploits that may be possible through a Subdomain Takeover Vulnerability. This vulnerability is a high-risk issue and can serve as an attack vector for further exploitation. The purpose of this Proof of Concept is to bring to notice of MIT the severity of the vulnerability. I do not intend to use this for any malignant purposes.
-**Please reference: Incident Reference Number To Be Added**
+**Please reference: [help.mit.edu #5553262]**
 
 If you have any queries please reach out to [c0d3d_v3n0m (Ali Salman)](mailto:alisalmanbilal@live.com)
 
